@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    
+    <info>
+        <title>DocBook</title>    
+    </info>
+    
+    <sect1>
+        <title>Historique</title>
+        
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="docbook.png" scale="60"/>
+            </imageobject>
+        </mediaobject>
+        <para>DocBook est apparu en 1992 à la suite d'un projet commun de l’entreprise informatique HaL Computer Systems et l'éditeur O'Reilly, il avait pour but de faciliter l'échange de documentation UNIX.
+            Ce partenariat est devenu The Davenport Group, son objectif s'étant 
+            élargi pour devenir le format d'écriture et d'échange de documentations techniques des industries de l'informatique et de l'électronique.
+        </para>
+    </sect1>
+    
+    <sect1>
+        <title>Définition</title>
+        <para>DocBook est un langage qui vous 
+            permet de publier votre document 
+            texte en plusieurs formats sans avoir à rédiger votre document à nouveau
+            dans chaque langage.il est basé sur le langage de balisae XML et suit une DTD.  
+            
+        </para>
+    </sect1>
+    
+    
+    <sect1>
+        <title>Quelques avantages</title>
+        <para>les avantages sont nombreux en l'occurnce:.</para>
+        <para>
+            <orderedlist >
+                <listitem>
+                    <para>Extrêmement facile à exploiter;
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Est un langage très fortement 
+                        structuré avec de nombreuses 
+                        balises et des règles d'imbrications strictes;
+                        
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Est Convertible facilement vers d'autres formats (HTML, PDF, TeX,PostScript, RTF, DVI, et ASCII. ...);
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Est un format idéal pour l'archivage. </para>
+                </listitem>
+            </orderedlist>
+            
+        </para>
+        <para>Pour conclur, DocBook s'est imposé comme le format standard 
+            pour la documentation logicielle 
+            (notamment dans la communauté Open Source).
+        </para>
+    </sect1>
+</article>
